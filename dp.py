@@ -13,8 +13,8 @@ def center_text(text):
 # Description text
 description = """
 HANA NETWORK
-BY : PUCUK KANGKUNG KONTOL BABI
-- KONTOL NGENTOD ANJING
+BY : R I S K Y
+-  N G A W I
 """
 
 # Output
